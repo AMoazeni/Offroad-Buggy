@@ -13,6 +13,9 @@ Click on 'Blocks' to convert to Scratch Blocks.
 
 Compiled '.HEX' file is also provided.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pD6tM1nXCPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 ## How To Program a MicroBit
 1. Connect Microbit to Computer with  USB Cable
 2. Drag and Drop 'Microbit_Car.HEX' onto 'Microbit' which appears as a Flash Drive in 'My Computer' once connected
