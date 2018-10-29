@@ -5,7 +5,7 @@ JavaScript Code for RC Model Cars, designed for the BBC Microbit Board.
 [![Microbit Car Wiring](https://pxt.azureedge.net/blob/8bfd195d968a0759bd5f4507d349be6575ae8e7c/static/mb/projects/rc-car/wiring.jpg)](https://pxt.azureedge.net/blob/8bfd195d968a0759bd5f4507d349be6575ae8e7c/static/mb/projects/rc-car/wiring.jpg)
 
 ## Microbit Car Code
-[![Microbit Car Code](https://github.com/AMoazeni/Microbit_Car/blob/master/Microbit%20Car%20MakeCode.png)](https://github.com/AMoazeni/Microbit_Car/blob/master/Microbit%20Car%20MakeCode.png)
+[![Microbit Car Code](https://github.com/AMoazeni/Microbit_Car/blob/master/Microbit%20Car%20MakeCode.png)](https://github.com/AMoazeni/Microbit_Car/blob/master/MakeCodeBlocks.JS)
 
 
 ## Microbit Online Simulator
