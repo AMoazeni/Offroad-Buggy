@@ -1,6 +1,11 @@
 # Microbit Car
 
-BBC Microbit RC Car JavaScript Code
+JavaScript Code for RC Model Cars, designed for the BBC Microbit Board.
+
+Microbit Car Project
+https://makecode.microbit.org/_Mf1PycDFhWqU
+
+Microbit Online Simulator
 https://makecode.microbit.org/#editor
 
 Paste JavaScript Code into the MakeCode Microbit Online Simulator/Programming Interface.
