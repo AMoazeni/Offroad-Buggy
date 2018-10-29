@@ -1,5 +1,3 @@
-# Microbit Car
-
 JavaScript Code for RC Model Cars, designed for the BBC Microbit Board.
 
 # Microbit Car Wiring
