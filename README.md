@@ -1,8 +1,6 @@
 # Microbit Car
 JavaScript Code for RC Model Cars, designed for the [BBC MicroBit Board](https://microbit.org/guide/features/).
 
-[![BBC MicroBit Board](https://microbit.org/images/microbit-hardware-access.jpg)]
-
 [![Microbit RC Car](https://img.youtube.com/vi/pD6tM1nXCPA/0.jpg)](https://www.youtube.com/watch?v=pD6tM1nXCPA&)
 
 
