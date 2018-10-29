@@ -13,7 +13,7 @@ Click on 'Blocks' to convert to Scratch Blocks.
 
 Compiled '.HEX' file is also provided.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pD6tM1nXCPA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Microbit RC Car](https://img.youtube.com/vi/pD6tM1nXCPA/0.jpg)](https://www.youtube.com/watch?v=pD6tM1nXCPA&)
 
 
 ## How To Program a MicroBit
