@@ -4,7 +4,7 @@ let steer_left = 0
 let steer_straight = 0
 let throttle = 0
 
-// Interrupt Function Activated
+// Interrupt Function Activated When Radio Message Recieved
 radio.onReceivedValue(function (name, value) {
     led.toggle(0, 0)
     if (name == "throttle") {
