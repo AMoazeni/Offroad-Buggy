@@ -4,7 +4,7 @@ let steer_left = 0
 let steer_straight = 0
 let throttle = 0
 
-
+// Interrupt Function Activated
 radio.onReceivedValue(function (name, value) {
     led.toggle(0, 0)
     if (name == "throttle") {
@@ -20,22 +20,23 @@ radio.onReceivedValue(function (name, value) {
         }
     } else if (name == "steering") {
         if (value > 0) {
-            pins.servoWritePin(AnalogPin.P13, value)
+            pins.servoWritePin(AnalogPin.P1, value)
         } else if (value < 0) {
-            pins.servoWritePin(AnalogPin.P13, value)
+            pins.servoWritePin(AnalogPin.P1, value)
         } else {
-            pins.servoWritePin(AnalogPin.P13, steer_straight)
+            pins.servoWritePin(AnalogPin.P1, steer_straight)
         }
     }
 })
 
-
+// Adjust Front Wheel Steering Servo Values
 radio.setGroup(12)
 steer_straight = 122
 steer_left = 150
 steer_right = 90
 
-
+// Infinity Loop For Throttle And Steering
+// Throttle Is OFF Until Radio Control Message Is Recieved
 basic.forever(function () {
     throttle = 0
     if (input.buttonIsPressed(Button.A)) {
